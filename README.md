@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YianniAhmad
+- 👋 Hi, I’m Ayaan!
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code with java, in the future i would love to become a software engineer and start my own tech company.
 - 💞️ I’m looking to collaborate on future creations.
